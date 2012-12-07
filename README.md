@@ -88,6 +88,10 @@ Also you can install Hakto without gem. Allocate the safe_sdbm.rb where is ruby 
 
 See tb_safe_sdbm.rb file. It is an unit test code, and it doubles with sample code.
 
+## API document
+
+See following website: [http://quellencode.org/hakto-doc/](http://quellencode.org/hakto-doc/ "")
+
 ## About Author
 
 Moza USANE  

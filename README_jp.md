@@ -86,6 +86,9 @@ gemを使わない場合は、Rubyのパスが通っている適当な場所にs
 
 tb_safe_sdbm.rbがサンプルコードを兼ねている。
 
+## APIドキュメント
+
+[http://quellencode.org/hakto-doc/](http://quellencode.org/hakto-doc/ "")を参照
 
 ## 作者について
 
