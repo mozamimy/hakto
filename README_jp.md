@@ -76,6 +76,10 @@ hakto-x.y.z.gemファイル（x、y、zはバージョン番号）をダウン�
 
 `$ sudo gem install hakto-x.y.z.gem`
 
+または、RubyGems.orgからgemコマンドを使ってインストールすることもできる。
+
+`$ sudo gem install hakto`
+
 gemを使わない場合は、Rubyのパスが通っている適当な場所にsafe_sdbm.rbを置く。
 
 ## サンプルコード

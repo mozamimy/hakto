@@ -78,6 +78,10 @@ Download hakto-x.y.z.gem, then execute following command to install Hakto.
 
 `$ sudo gem install hakto-x.y.z.gem`
 
+On the other hand, you can install from RubyGems.org to use following command.
+
+`$ sudo gem install hakto`
+
 Also you can install Hakto without gem. Allocate the safe_sdbm.rb where is ruby interpreter can load Hakto.
 
 ## Sample code
