@@ -34,7 +34,7 @@ SDBMライブラリを使うときにありがちな、以下の様な煩雑な�
 
     class Klass
       def initialize(db_path)
-        @sdb = SafeSDBM.new(db_path)
+        @sdb = Hakto::SafeSDBM.new(db_path)
       end
       
       def method1

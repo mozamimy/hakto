@@ -34,7 +34,7 @@ Hakto enables to tighten up a code that uses SDBM library like following codes.
 
     class Klass
       def initialize(db_path)
-        @sdb = SafeSDBM.new(db_path)
+        @sdb = Hakto::SafeSDBM.new(db_path)
       end
       
       def method1
