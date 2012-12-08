@@ -53,6 +53,17 @@ module Hakto
       end
     end
 
+    # Return key-value pair with CSV format.
+    def csv_each
+      operate do |dbm|
+        ret_string = ""
+        dbm.each_pair do |key, value|
+          ret_string += "#{key},#{value}\r\n"
+        end
+        ret_string
+      end
+    end
+
     # Print values with following format.
     # value1, value2, value3, ...
     def print_values

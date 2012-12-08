@@ -61,6 +61,11 @@ class SafeSDBMTest < Test::Unit::TestCase
     assert_equal("hage:HAGE,fuga:FUGA,siga:SIGA,", result)
   end
 
+  def csv_each_test
+    expected = "hage,HAGE\r\nfuga,FUGA\r\nsiga,SIGA\r\n"
+    assert_equal(expected, @safe_sdbm.csv_each)
+  end
+
   def test_print_keys
     result = capture_stdout do
       @safe_sdbm.print_keys
