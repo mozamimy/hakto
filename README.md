@@ -92,6 +92,10 @@ See tb_safe_sdbm.rb file. It is an unit test code, and it doubles with sample co
 
 See following website: [http://quellencode.org/hakto-doc/](http://quellencode.org/hakto-doc/ "")
 
+## License
+
+Hakto is distributed with MIT License. See the LICENSE file to read the detail of license.
+
 ## About Author
 
 Moza USANE  

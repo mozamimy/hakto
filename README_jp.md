@@ -90,6 +90,10 @@ tb_safe_sdbm.rbがサンプルコードを兼ねている。
 
 [http://quellencode.org/hakto-doc/](http://quellencode.org/hakto-doc/ "")を参照
 
+## ライセンス
+
+本ソフトウェアは、MIT Licenseのもとで配布されている。詳細はLICENSEファイルに記している。
+
 ## 作者について
 
 Moza USANE  
